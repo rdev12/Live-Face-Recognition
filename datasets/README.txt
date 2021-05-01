@@ -1,0 +1,1 @@
+Add your images here as folder and name them sequentially (0.jpg...)
